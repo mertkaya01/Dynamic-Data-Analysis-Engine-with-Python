@@ -1,0 +1,8 @@
+Date,Product_ID,Category,Region,Sales,Cost,Units
+2023-10-01,P100,Electronics,North,1500.50,900.25,10
+2023-10-01,P201,Clothing,South,50.99,20.00,5
+2023-10-02,P305,Books,East,12.00,6.50,15
+2023-10-02,P100,Electronics,West,1800.75,1050.00,12
+2023-10-03,P411,Clothing,North,75.00,,8
+2023-10-03,P550,Books,South,25.50,10.00,3
+2023-10-04,P201,Clothing,East,45.99,18.00,
