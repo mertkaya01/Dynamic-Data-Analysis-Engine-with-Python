@@ -16,7 +16,7 @@ Bu araç, **temiz mühendislik kodlamasını, modüler tasarımı ve veri yönet
 | **Veri Temizleme (Pandas)** | Kayıp verileri (NaN), sütunun **ortalama** değeri veya **0** gibi mantıksal değerlerle doldurur. |
 | **Temel Analiz** | `Sales` ve `Cost` üzerinden yeni bir `Profit` (Kâr) sütunu hesaplar. |
 | **Veri Kalıcılığı (SQL)** | İşlenmiş verileri, kolay sorgulanabilmesi için **SQLite** veritabanına kaydeder. |
-
+| **Ufak bir proje olarak yapmak istedim. |
 ---
 
 ## 🛠️ Kullanılan Teknolojiler
@@ -37,4 +37,5 @@ Bu araç, **temiz mühendislik kodlamasını, modüler tasarımı ve veri yönet
 Bu proje, Python 3 gerektirir. Gerekli kütüphaneleri `requirements.txt` dosyasından kurun:
 
 ```bash
+
 # pip install -r requirements.txt
